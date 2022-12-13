@@ -1,0 +1,86 @@
+[
+    {
+        "name": "iphone",
+        "price": 1000,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "galaxy",
+        "price": 900,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "pixel",
+        "price": 800,
+        "feature": true,
+        "company": "google"
+    },
+    {
+        "name": "oneplus",
+        "price": 700,
+        "feature": true,
+        "company": "oneplus"
+    },
+    {
+        "name": "nokia",
+        "price": 600,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "xiaomi",
+        "price": 500,
+        "feature": true,
+        "company": "xiaomi"
+    },
+    {
+        "name": "oppo",
+        "price": 400,
+        "feature": true,
+        "company": "oppo"
+    },
+    {
+        "name": "vivo",
+        "price": 300,
+        "feature": true,
+        "company": "vivo"
+    },
+    {
+        "name": "realme",
+        "price": 200,
+        "feature": true,
+        "company": "realme"
+    },
+    {
+        "name": "asus",
+        "price": 100,
+        "feature": true,
+        "company": "asus"
+    },
+    {
+        "name": "lenovo",
+        "price": 50,
+        "feature": true,
+        "company": "lenovo"
+    },
+    {
+        "name": "huawei",
+        "price": 25,
+        "feature": true,
+        "company": "huawei"
+    },
+    {
+        "name": "motorola",
+        "price": 10,
+        "feature": true,
+        "company": "motorola"
+    },
+    {
+        "name": "blackberry",
+        "price": 5,
+        "feature": true,
+        "company": "blackberry"
+    }
+]
