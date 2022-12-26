@@ -1,0 +1,44 @@
+section {
+    background-color: #f6f5f0;
+}
+
+.hero__content h2 {
+    font-weight: 600;
+    font-size: 70px;
+    color: black;
+}
+
+.hero__text {
+    font-size: 20px;
+    color: #555555;
+    font-weight: 300;
+    font-family: sans-serif;
+}
+
+.hero__content {
+    padding-top: 80px;
+}
+
+form {
+    background: #fff;
+    justify-content: space-between;
+    box-shadow: 0 5px 10px rgb(16 17 21 / 10%);
+}
+
+input {
+    width: calc(100% - 142px);
+    border: none;
+    padding: 18px;
+    outline: none;
+    padding-left: 40px;
+}
+
+.search-btn {
+    border: none;
+    font-weight: 500;
+    outline: none;
+    padding: 17px 22px;
+    color: #fff;
+    font-size: 15px;
+    background: #f16126;
+}
