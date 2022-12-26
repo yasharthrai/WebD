@@ -1,0 +1,34 @@
+section.events-section {
+    background-color: #0f256e;
+}
+
+.event-title {
+    color: #fff;
+    font-size: 2.8rem;
+}
+
+.events__img {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+}
+.events__img img {
+    border-radius: 10px;
+}
+
+.events__details h6 {
+    font-weight: 600;
+    line-height: 2rem;
+    color: #fff;
+}
+
+span.events-footer {
+    color: #e2d3d3;
+}
+
+span i {
+    color: #e2d3d3;
+}
